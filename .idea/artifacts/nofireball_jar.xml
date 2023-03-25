@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="nofireball:jar">
+    <output-path>$USER_HOME$/Desktop/SEVER/plugins</output-path>
+    <root id="archive" name="nofireball.jar">
+      <element id="module-output" name="nofireball" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+name: nofireball
+version: '1.0-SNAPSHOT'
+main: com.sungjujjand.nofireball.Nofireball
+api-version: 1.19
+commands:
+  nofireball:
+    description: No fireball
+    usage: /nofireball
+    aliases: [nofireball]
+    permission: nofireball.nofireball
+    permission-message: You don't have permission to use this command.
